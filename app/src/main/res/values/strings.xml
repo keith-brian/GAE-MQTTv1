@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">GAE MQTT</string>
+    <string name="Header">GEARBOX MQTT</string>
+    <string name="host">HOST</string>
+    <string name="home_text">Credentials</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Connect">Connect</string>
+    <string name="_1883">1883</string>
+    <string name="port">PORT</string>
+    <string name="username">Username</string>
+
 </resources>
